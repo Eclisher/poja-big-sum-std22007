@@ -1,8 +1,8 @@
 config:
   target: 'https://ldw9x76db4.execute-api.eu-west-3.amazonaws.com'
   phases:
-    - duration: 60
-      arrivalRate: 10
+    - duration: 1
+      arrivalRate: 600
 
 scenarios:
   - flow:
